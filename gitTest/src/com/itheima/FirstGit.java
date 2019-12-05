@@ -14,10 +14,13 @@ public class FirstGit {
         System.out.println("hello world");
         System.out.println("hello world");
         System.out.println("hello world");
+        //我来改一改
     }
 
     public void hello(){
 
         System.out.println("改它一改");
+
+        System.out.println("再改一改");
     }
 }
