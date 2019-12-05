@@ -15,4 +15,9 @@ public class FirstGit {
         System.out.println("hello world");
         System.out.println("hello world");
     }
+
+    public void hello(){
+
+        System.out.println("改它一改");
+    }
 }
